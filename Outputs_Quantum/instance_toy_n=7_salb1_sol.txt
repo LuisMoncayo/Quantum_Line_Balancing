@@ -1,0 +1,146 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solution: 2
+
+Cycle of workstation 1 is 73
+
+   Task  Time  Workstation
+0     1    22            1
+1     2    34            1
+3     4    17            1
+
+
+Cycle of workstation 2 is 68
+
+   Task  Time  Workstation
+2     3    41            2
+4     5    27            2
+
+
+Cycle of workstation 3 is 59
+
+   Task  Time  Workstation
+5     6    33            3
+6     7    26            3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solution: 6
+
+Cycle of workstation 1 is 63
+
+   Task  Time  Workstation
+0     1    22            1
+2     3    41            1
+
+
+Cycle of workstation 2 is 61
+
+   Task  Time  Workstation
+1     2    34            2
+4     5    27            2
+
+
+Cycle of workstation 3 is 76
+
+   Task  Time  Workstation
+3     4    17            3
+5     6    33            3
+6     7    26            3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solution: 19
+
+Cycle of workstation 1 is 80
+
+   Task  Time  Workstation
+0     1    22            1
+2     3    41            1
+3     4    17            1
+
+
+Cycle of workstation 2 is 61
+
+   Task  Time  Workstation
+1     2    34            2
+4     5    27            2
+
+
+Cycle of workstation 3 is 59
+
+   Task  Time  Workstation
+5     6    33            3
+6     7    26            3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solution: 20
+
+Cycle of workstation 1 is 56
+
+   Task  Time  Workstation
+0     1    22            1
+1     2    34            1
+
+
+Cycle of workstation 2 is 68
+
+   Task  Time  Workstation
+2     3    41            2
+4     5    27            2
+
+
+Cycle of workstation 3 is 76
+
+   Task  Time  Workstation
+3     4    17            3
+5     6    33            3
+6     7    26            3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solution: 2319
+
+Cycle of workstation 1 is 56
+
+   Task  Time  Workstation
+0     1    22            1
+1     2    34            1
+
+
+Cycle of workstation 2 is 85
+
+   Task  Time  Workstation
+2     3    41            2
+3     4    17            2
+4     5    27            2
+
+
+Cycle of workstation 3 is 59
+
+   Task  Time  Workstation
+5     6    33            3
+6     7    26            3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solution: 2797
+
+Cycle of workstation 1 is 97
+
+   Task  Time  Workstation
+0     1    22            1
+1     2    34            1
+2     3    41            1
+
+
+Cycle of workstation 2 is 27
+
+   Task  Time  Workstation
+4     5    27            2
+
+
+Cycle of workstation 3 is 76
+
+   Task  Time  Workstation
+3     4    17            3
+5     6    33            3
+6     7    26            3
+
+
+[2, 6, 19, 20, 2319, 2797]

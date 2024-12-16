@@ -1,0 +1,178 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solution: 31
+
+Cycle of workstation 1 is 5
+
+   Task  Time  Workstation
+0     1     3            1
+2     3     2            1
+
+
+Cycle of workstation 2 is 5
+
+   Task  Time  Workstation
+1     2     5            2
+
+
+Cycle of workstation 3 is 6
+
+   Task  Time  Workstation
+3     4     4            3
+4     5     2            3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solution: 83
+
+Cycle of workstation 1 is 5
+
+   Task  Time  Workstation
+0     1     3            1
+2     3     2            1
+
+
+Cycle of workstation 2 is 5
+
+   Task  Time  Workstation
+1     2     5            2
+
+
+Cycle of workstation 3 is 6
+
+   Task  Time  Workstation
+3     4     4            3
+4     5     2            3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solution: 787
+
+Cycle of workstation 1 is 8
+
+   Task  Time  Workstation
+0     1     3            1
+1     2     5            1
+
+
+Cycle of workstation 2 is 6
+
+   Task  Time  Workstation
+2     3     2            2
+3     4     4            2
+
+
+Cycle of workstation 3 is 2
+
+   Task  Time  Workstation
+4     5     2            3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solution: 965
+
+Cycle of workstation 1 is 8
+
+   Task  Time  Workstation
+0     1     3            1
+1     2     5            1
+
+
+Cycle of workstation 2 is 6
+
+   Task  Time  Workstation
+2     3     2            2
+3     4     4            2
+
+
+Cycle of workstation 3 is 2
+
+   Task  Time  Workstation
+4     5     2            3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solution: 1381
+
+Cycle of workstation 1 is 8
+
+   Task  Time  Workstation
+0     1     3            1
+1     2     5            1
+
+
+Cycle of workstation 2 is 6
+
+   Task  Time  Workstation
+2     3     2            2
+3     4     4            2
+
+
+Cycle of workstation 3 is 2
+
+   Task  Time  Workstation
+4     5     2            3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solution: 1938
+
+Cycle of workstation 1 is 5
+
+   Task  Time  Workstation
+0     1     3            1
+2     3     2            1
+
+
+Cycle of workstation 2 is 5
+
+   Task  Time  Workstation
+1     2     5            2
+
+
+Cycle of workstation 3 is 6
+
+   Task  Time  Workstation
+3     4     4            3
+4     5     2            3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solution: 2435
+
+Cycle of workstation 1 is 5
+
+   Task  Time  Workstation
+0     1     3            1
+2     3     2            1
+
+
+Cycle of workstation 2 is 9
+
+   Task  Time  Workstation
+1     2     5            2
+3     4     4            2
+
+
+Cycle of workstation 3 is 2
+
+   Task  Time  Workstation
+4     5     2            3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solution: 2549
+
+Cycle of workstation 1 is 5
+
+   Task  Time  Workstation
+0     1     3            1
+2     3     2            1
+
+
+Cycle of workstation 2 is 5
+
+   Task  Time  Workstation
+1     2     5            2
+
+
+Cycle of workstation 3 is 6
+
+   Task  Time  Workstation
+3     4     4            3
+4     5     2            3
+
+
+[31, 83, 787, 965, 1381, 1938, 2435, 2549]
